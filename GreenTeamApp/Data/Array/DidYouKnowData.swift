@@ -1,0 +1,12 @@
+//
+//  DidYouKnowArray.swift
+//  GreenTeamApp Alpha 0.0.2
+//
+//  Created by Apprenant 32 on 03/02/2023.
+//
+
+import Foundation
+
+let didYouKnows = ["Internet serait sur le podium de la consommation d'électricité derrière les US et la Chine s'il s'agissait d'un pays", "Un data-center utilise 40% de son électricité pour la climatisation", "D'ici 2030, la 5G augmenterait l'empreinte carbone du secteur du numérique de 18 à 45%", "Le secteur du numérique pollue autant que le secteur de l'aviation et ils continuent de croître ensemble", "73% des français ne connaissent pas la notion de sobriété numérique", "Nos appareils connectés représentent 76% de l'épuisement des ressources naturelles non recyclables", "Il y a plus d'avions dans l'océan que de sous-marins dans les airs","4 milliards de personnes utilisent Internet dans le monde", "Actuellement, seuls 20% des déchets électroniques sont recyclés dans le monde.","55% de l’impact énergétique mondial du numérique provient du trafic de données, qui augmente actuellement de 25% par an","Les vidéos en ligne représentent 60 % du flux mondial de données et sont responsables de près de 1 % des émissions mondiales de CO2 !","Selon l’ADEME (Agence de la transition écologique), garder une tablette ou un ordinateur quatre ans au lieu de deux améliore de 50 % son bilan environnemental.","En France 10% de l’électricité est consommée par les data centers.", "La diffusion d’une vidéo en continu sur votre mobile à l’aide de la 4G consomme 23 fois plus d’énergie que la diffusion en wifi", "Selon Greenpeace, seuls 17 % des centres de données de Netflix sont alimentés par des sources d’énergie propres.", "34 millions est le nombre de mails envoyés toutes les heures (hors spam). L’équivalent de 14 tonnes de pétrole.", "Un mail, c’est 10 g de CO₂ , soit une ampoule basse consommation allumée pendant 1 heure", "Un courriel stocké dans un compte de messagerie pendant un an émet 19 g de CO₂", "L’envoi de 33 courriels de 1 Mo à deux destinataires chaque jour produit 180 kg de CO₂ par an, , soit l’équivalent de 1 000 km parcourus en voiture", "Il faut en moyenne un arbre pour produire 15 000 feuilles de papier soit 30 ramettes", "Il est parfois plus écologique d’imprimer un document. C’est le cas lorsqu’un document compte plus de quatre pages et que sa lecture prend plus de 15 minutes.","60 millions de tonnes d’appareils photo numériques sont jetés chaque année pour seulement 5% de recyclage"
+
+]
